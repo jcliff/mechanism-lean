@@ -1,0 +1,6 @@
+name = "mechanism"
+version = "0.1.0"
+defaultTargets = ["Mechanism"]
+
+[[lean_lib]]
+name = "Mechanism"
